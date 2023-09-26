@@ -1,3 +1,3 @@
 # py-pdf
 
-'''python booklet.py path/to/PDF/file'''
+```python booklet.py path/to/PDF/file```
